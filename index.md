@@ -21,3 +21,5 @@ NgocQuan CTB NgocQuan CTB
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/blogs.md %}

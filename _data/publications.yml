@@ -9,7 +9,6 @@ main:
     image: ./assets/img/class7.pdf
     notes: Poster
 
-
   - title: Improving Generalization with Flat Hilbert Bayesian Inference
     authors: Tuan Truong*, Quyen Tran*, <strong>Ngoc Quan Pham</strong>, Dinh Phung, Nhat Ho, Trung Le
     conference_short: ICML
@@ -19,4 +18,16 @@ main:
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Pp4Anz90VCkJ:scholar.google.com/&output=citation&scisdr=CgJLG5WWEJqqj40dcGk:AAZF9b8AAAAAaCMbaGmTEugZ7TWdwfloFudmeU0&scisig=AAZF9b8AAAAAaCMbaMVWR2NA9NTkbZWlke8LPLc&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/fhvi.png
     notes: Poster
+
+  - title: "Hierarchical Cross-Entropy and Distillation: Enhancing Knowledge Integration from Taxonomies"
+    authors: <strong>Ngoc Quan Pham</strong>, Minh Tuan Tran, Tuan Truong, Quyen Tran, Dinh Phung, Trung Le
+    conference_short: arXiv
+    conference: Under Review <strong>(arXiv)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2410.04196
+    code: https://github.com/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Pp4Anz90VCkJ:scholar.google.com/&output=citation&scisdr=CgJLG5WWEJqqj40dcGk:AAZF9b8AAAAAaCMbaGmTEugZ7TWdwfloFudmeU0&scisig=AAZF9b8AAAAAaCMbaMVWR2NA9NTkbZWlke8LPLc&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/fhvi.png
+    notes: Poster
+
+
 
