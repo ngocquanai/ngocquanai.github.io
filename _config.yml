@@ -1,8 +1,8 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+title: Pham Ngoc Quan
+position: AI Researcher
+affiliation: Qualcomm AI Research
+email: quanpham (at) qti.qualcomm.com
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,10 +12,10 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
+google_scholar: https://scholar.google.com/citations?user=&user=GWE5NmkAAAAJ
 cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
+github_link: https://github.com/ngocquanai
+linkedin: https://www.linkedin.com/in/ngocquanai/
 twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
@@ -25,12 +25,12 @@ favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+# You may use the option to disable the footnote, "This is where research lives. Thank you for stopping by. With best regards, NgocQuan."
 enable_footnote: true
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
-auto_dark_mode: true
+auto_dark_mode: false
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.

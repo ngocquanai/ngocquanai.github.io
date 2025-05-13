@@ -1,22 +1,22 @@
 main:
+  - title: Promoting Ensemble Diversity with Interactive Bayesian Distributional Robustness for Fine-tuning Foundation Models
+    authors: <strong>Ngoc Quan Pham</strong>*, Tuan Truong*, Quyen Tran, Tan Minh Nguyen, Dinh Phung, Trung Le
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
+    pdf: https://arxiv.org/
+    code: https://github.com/
+    bibtex: https://doi.org
+    image: ./assets/img/class7.pdf
+    notes: Poster
 
-  - title: NgocQuan
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Improving Generalization with Flat Hilbert Bayesian Inference
+    authors: Tuan Truong*, Quyen Tran*, <strong>Ngoc Quan Pham</strong>, Dinh Phung, Nhat Ho, Trung Le
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2410.04196
+    code: https://github.com/
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Pp4Anz90VCkJ:scholar.google.com/&output=citation&scisdr=CgJLG5WWEJqqj40dcGk:AAZF9b8AAAAAaCMbaGmTEugZ7TWdwfloFudmeU0&scisig=AAZF9b8AAAAAaCMbaMVWR2NA9NTkbZWlke8LPLc&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/fhvi.png
+    notes: Poster
+

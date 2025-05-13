@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+NgocQuan CTB NgocQuan CTB
 
 ## Research Interests
 
