@@ -6,7 +6,7 @@ main:
     pdf: https://arxiv.org/
     code: https://github.com/
     bibtex: https://doi.org
-    image: ./assets/img/class7.pdf
+    image: ./assets/img/avatar.jpg
     notes: Poster
 
   - title: Improving Generalization with Flat Hilbert Bayesian Inference
@@ -22,12 +22,12 @@ main:
   - title: "Hierarchical Cross-Entropy and Distillation: Enhancing Knowledge Integration from Taxonomies"
     authors: <strong>Ngoc Quan Pham</strong>, Minh Tuan Tran, Tuan Truong, Quyen Tran, Dinh Phung, Trung Le
     conference_short: arXiv
-    conference: Under Review <strong>(arXiv)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2410.04196
+    conference: Under review <strong>(arXiv)</strong>, 2025.
+    pdf: https://arxiv.org/
     code: https://github.com/
-    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Pp4Anz90VCkJ:scholar.google.com/&output=citation&scisdr=CgJLG5WWEJqqj40dcGk:AAZF9b8AAAAAaCMbaGmTEugZ7TWdwfloFudmeU0&scisig=AAZF9b8AAAAAaCMbaMVWR2NA9NTkbZWlke8LPLc&scisf=4&ct=citation&cd=-1&hl=en
-    image: ./assets/img/fhvi.png
-    notes: Poster
+    bibtex: https://doi.org/
+    image: ./assets/img/HiCE.png
+    notes: Under review
 
 
 
