@@ -6,7 +6,7 @@ main:
     pdf: https://arxiv.org/
     code: https://github.com/
     bibtex: https://doi.org
-    image: ./assets/img/avatar.jpg
+    image: ./assets/img/ibdr.png
     notes: Poster
 
   - title: Improving Generalization with Flat Hilbert Bayesian Inference
@@ -28,6 +28,16 @@ main:
     bibtex: https://doi.org/
     image: ./assets/img/HiCE.png
     notes: Under review
+
+  - title: "A Robust Pitch-Fusion Model for Speech Emotion Recognition in Tonal Languages"
+    authors: Pham Viet Thanh*, Ngo Thi Thu Huyen*, <strong>Ngoc Quan Pham</strong>, Nguyen Thi Thu Trang
+    conference_short: ICASSP
+    conference: International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP)</strong>, 2025.
+    pdf: https://ieeexplore.ieee.org/document/10448373
+    code: https://github.com/thanhpv2102/ViSEC
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:LC3yi6nyiRIJ:scholar.google.com/&output=citation&scisdr=CgLyrrh3EJqqj4pPeDY:AAZF9b8AAAAAaCRJYDYNOzfi-ajdHo7BCiPuSvA&scisig=AAZF9b8AAAAAaCRJYABXbkFDqRkb83DifvNNKMs&scisf=4&ct=citation&cd=-1&hl=en
+    image: ./assets/img/visec.png
+    notes: Poster
 
 
 
