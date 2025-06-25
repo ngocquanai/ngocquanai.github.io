@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ngocquanai.github.io/sitemap.xml
+Sitemap: https://ngocquan.com/sitemap.xml
