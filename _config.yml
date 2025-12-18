@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Quan Pham homepage"
+title                    : "Quan Pham"
 title_separator          : "-"
 name                     : &name "Quan Pham"
 description              : &description "QuanPham's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "(Ngoc) Quan Pham"
-  pronouns         : "he/him"  
-  bio              : "I'am Quan Pham, currently I am an AI Resident at Qualcomm AI Research"
+  pronouns         :  
+  bio              : "I am <strong>Quan Pham</strong>, currently an AI Resident at Qualcomm AI Research."
   location         : "Earth"
   employer         : "Qualcomm AI Research"
   uri              : # URL
@@ -95,7 +95,7 @@ publication_category:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
