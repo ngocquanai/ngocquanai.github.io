@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 
-**About me**: Hello world! You can call me Quan. Currently, I am an undergrad student at [HUST](https://hust.edu.vn/en/), Vietnam, and also an AI Resident at [Qualcomm AI Research](https://www.qualcomm.com/). I love playing with large language models. I am impressed by the abilities of LLMs, and I am curious about how they work. I want to understand them theoretically.
-Hello world! You can call me Quan. I am an undergrad at [HUST](https://hust.edu.vn/en/), Vietnam, and also an AI Resident at [Qualcomm AI Research](https://www.qualcomm.com/). I like to build and poke at large language models, then ask ***why*** they work. I am especially interested in the theory behind LLM abilities: what principles explain the behaviors we observe, and how we can make them more ***reliable***.
+**About me**: Hello world! You can call me Quan. I am an undergrad at [HUST](https://hust.edu.vn/en/), Vietnam, and also an AI Resident at [Qualcomm AI Research](https://www.qualcomm.com/). 
+
+I like to build and poke at large language models, then ask ***why*** they work. I am especially interested in the theory behind LLM abilities: what principles explain the behaviors we observe, and how we can make them more ***reliable***.
 
 Outside of research, I love traveling to collect new experiences (and too many photos 🎞️ 🖼️) as my little way to *“save”* memories 
 
