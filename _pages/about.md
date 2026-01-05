@@ -9,14 +9,17 @@ redirect_from:
 
 
 **About me**: Hello world! You can call me Quan. Currently, I am an undergrad student at [HUST](https://hust.edu.vn/en/), Vietnam, and also an AI Resident at [Qualcomm AI Research](https://www.qualcomm.com/). I love playing with large language models. I am impressed by the abilities of LLMs, and I am curious about how they work. I want to understand them theoretically.
+Hello world! You can call me Quan. I am an undergrad at [HUST](https://hust.edu.vn/en/), Vietnam, and also an AI Resident at [Qualcomm AI Research](https://www.qualcomm.com/). I like to build and poke at large language models, then ask ***why*** they work. I am especially interested in the theory behind LLM abilities: what principles explain the behaviors we observe, and how we can make them more ***reliable***.
+
+Outside of research, I love traveling to collect new experiences (and too many photos 🎞️ 🖼️) as my little way to *“save”* memories 
 
 # Updates
 
 - **[Dec 2025]** I am actively **looking for a PhD position**. Good luck to me!
 
-- **[Jun 2025]** I will attend International Conference on Machine Learning 2025. Let's connect!
+- **[Jun 2025]** I will attend ICML 2025. Let's connect!
 
-- **[May 2025]** I got 2 papers accepted at ICML 2025. What an achievement for me!
+- **[May 2025]** I got 2 papers accepted at ICML 2025. 
 
 - **[Apr 2025]** I officialy joined Qualcomm AI Research as an AI Resident.
 
@@ -24,20 +27,17 @@ redirect_from:
 
 - **[Aug 2024]** I joined VinAI Research as an AI Resident.
 
-- **[Apr 2024]** My first paper was accepted at ICASSP 2024!
+- **[Apr 2024]** My first paper was accepted at ICASSP 2024.
 
 
 # Research Interests
 
-Despite their impressive emergent abilities [1], Large Language Models (LLMs) are, at their core, massive statistical engines optimizing a conditional probability distribution. The recent history of our field can be viewed as a sequence of attempts to optimize this probability more effectively. Initially, we relied on prompt engineering to provide hand-crafted conditions to guide generation. This evolved into parameter-efficient methods such as prompt-tuning and prefix-tuning, which learn continuous prompt representations to condition the model. As we reached the limits of static conditioning, the frontier shifted to the post-training phase and test-time compute.
+My long-term goal is to align the growing capabilities of modern AI with ***scientific transparency*** and ***universal access***, building systems that are as interpretable as they are useful, including in resource-constrained settings.
 
-However, recent findings [2] suggest that post-training with reinforcement learning (RL) often acts primarily to \textit{sharpen} the conditional probability of the original LLM. This implies that many of the benefits of RL post-training can be approximated by sampling from a power distribution of the base model distribution [3]. In other words, once we scale models sufficiently in both data and parameters, LLMs already possess rich latent abilities, and the challenge becomes how to elicit them reliably. **My research therefore aims to** 
-- (i) leverage these intrinsic abilities through robust fine-tuning and test-time compute
-- (ii) deepen the scientific understanding of language models by investigating their fundamental statistical properties.
+I work on reliability and efficient reasoning for large language models, with two recurring themes: making reliability an explicit design objective (not just a byproduct of scaling), and turning theoretical principles into practical inference-time algorithms. Concretely, I explore ***robust fine-tuning*** and ***test-time compute***, using ***Optimal Transport*** for structure-aware semantics and ***Sequential Monte Carlo*** as a principled framework to control diversity and uncertainty at inference time.
 
-[1]: Emergent Abilities of Large Language Models
-[2]: Does reinforcement learning really incentivize reasoning capacity in LLMs beyond the base model?
-[3]: Reasoning with sampling: Your base model is smarter than you think
+During ***my PhD***, I hope to formalize these connections and translate them into simple, deployable methods for robust and efficient AI agents.
+
 
 
 
