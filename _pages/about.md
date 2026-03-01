@@ -8,13 +8,15 @@ redirect_from:
 ---
 
 
-**About me**: Hello world! You can call me Quan. I am an undergrad at [HUST](https://hust.edu.vn/en/), Vietnam, and also an AI Resident at [Qualcomm AI Research](https://www.qualcomm.com/). 
+**About me**: Hello world! I am Quan Pham. I am an undergrad at [HUST](https://hust.edu.vn/en/), Vietnam, and also an AI Resident at [Qualcomm AI Research](https://www.qualcomm.com/). I am an incomming PhD student at National University of Singapore (NUS). I was mentored by [Prof. Trung Le](https://research.monash.edu/en/persons/trung-le/) (previously at VinAI Research), and I currently work closely with [Dr. Tung Pham](https://scholar.google.com/citations?user=KcUuEKsAAAAJ&hl=en) and [Dr. Hung Bui](https://sites.google.com/site/buihhung/) at Qualcomm AI Research.
 
-I like to build and poke at large language models, then ask ***why*** they work. I am especially interested in the theory behind LLM abilities: what principles explain the behaviors we observe, and how we can make them more ***reliable***.
+I like to play with large language models, then ask ***why*** they work. I am especially interested in the theory behind LLM abilities: what principles explain the behaviors we observe, and how we can make them more ***reliable***.
 
-Outside of research, I love traveling to collect new experiences (and too many photos 🎞️ 🖼️) as my little way to *“save”* memories 
+Outside of research, I love traveling to collect new experiences (and photos) as my little way to *“save”* memories. You can take a look at [my blog](https://www.travel.ngocquan.com/)
 
 # Updates
+
+- **[Feb 2026]** I received an offer of admission and a research scholarship from the National University of Singapore (NUS).
 
 - **[Dec 2025]** I am actively **looking for a PhD position**. Good luck to me!
 
@@ -33,11 +35,14 @@ Outside of research, I love traveling to collect new experiences (and too many p
 
 # Research Interests
 
-My long-term goal is to align the growing capabilities of modern AI with ***scientific transparency*** and ***universal access***, building systems that are as interpretable as they are useful, including in resource-constrained settings.
+My research lies at the intersection of statistical machine learning, large language models (LLMs), and efficient inference. I am interested in developing principled foundations for understanding how overparameterized models learn, generalize, and reason, and in translating these insights into robust and efficient AI systems.
 
-I work on reliability and efficient reasoning for large language models, with two recurring themes: making reliability an explicit design objective (not just a byproduct of scaling), and turning theoretical principles into practical inference-time algorithms. Concretely, I explore ***robust fine-tuning*** and ***test-time compute***, using ***Optimal Transport*** for structure-aware semantics and ***Sequential Monte Carlo*** as a principled framework to control diversity and uncertainty at inference time.
+A central theme of my work is to bridge statistical theory and modern foundation models. In particular, I focus on:
 
-During ***my PhD***, I hope to formalize these connections and translate them into simple, deployable methods for robust and efficient AI agents.
+- Developing probabilistic inference methods for foundation models, with an emphasis on improving reasoning capabilities in LLMs.
+- Advancing scientific understanding of LLMs by investigating the fundamental statistical properties that govern *how models learn and reason.*
+
+
 
 
 
