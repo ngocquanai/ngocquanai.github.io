@@ -13,8 +13,8 @@ $background-light           : mix(#fff, $background, 20%);
 $background-lighter         : mix(#fff, $background, 90%);
 $text                       : #222831;
 $link                       : #52adc8;
-$link-dark                  : mix(#000, $link, 25%);
-$link-light                 : mix(#000, $link, 25%);
+$link-dark                  : #52adc8;
+$link-light                 : #52adc8;
 $footer                     : $primary-color;
 
 /* Color codes used for the site */
