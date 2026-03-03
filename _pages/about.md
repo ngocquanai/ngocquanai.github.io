@@ -43,6 +43,9 @@ A central theme of my work is to bridge statistical theory and modern foundation
 - Advancing scientific understanding of LLMs by investigating the fundamental statistical properties that govern ***how models learn and reason.***
 
 
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=xjlcrMYh5mtsK8UZhQQkl9zuk77M_5Nb0W5OCYCEhC0&cl=ffffff&w=a"></script>
+
+
 
 
 
