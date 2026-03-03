@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-**About me**: Hello world! I am Quan Pham. I am an undergrad at [HUST](https://hust.edu.vn/en/), Vietnam, and also an AI Resident at [Qualcomm AI Research](https://www.qualcomm.com/). I am an incomming PhD student at National University of Singapore (NUS). I was mentored by [Prof. Trung Le](https://research.monash.edu/en/persons/trung-le/) (previously at VinAI Research), and I currently work closely with [Dr. Tung Pham](https://scholar.google.com/citations?user=KcUuEKsAAAAJ&hl=en) and [Dr. Hung Bui](https://sites.google.com/site/buihhung/) at Qualcomm AI Research.
+**About me**: Hello world! I am Quan Pham. I am an undergrad at [HUST](https://hust.edu.vn/en/), Vietnam, and also an AI Resident at [Qualcomm AI Research](https://www.qualcomm.com/). I am an incoming PhD student at National University of Singapore (NUS). I was mentored by [Prof. Trung Le](https://research.monash.edu/en/persons/trung-le/) (previously at VinAI Research), and I currently work closely with [Dr. Tung Pham](https://scholar.google.com/citations?user=KcUuEKsAAAAJ&hl=en) and [Dr. Hung Bui](https://sites.google.com/site/buihhung/) at Qualcomm AI Research.
 
 I like to play with large language models, then ask ***why*** they work. I am especially interested in the theory behind LLM abilities: what principles explain the behaviors we observe, and how we can make them more ***reliable***.
 
@@ -35,12 +35,12 @@ Outside of research, I love traveling to collect new experiences (and photos) as
 
 # Research Interests
 
-My research lies at the intersection of statistical machine learning, large language models (LLMs), and efficient inference. I am interested in developing principled foundations for understanding how overparameterized models learn, generalize, and reason, and in translating these insights into robust and efficient AI systems.
+My research lies at the intersection of *statistical machine learning* and *large language models (LLMs)*. I am interested in developing principled foundations for understanding how overparameterized models learn, generalize, and reason, as well as in designing probabilistic inference frameworks that fully leverage the intrinsic capabilities of LLMs.
 
 A central theme of my work is to bridge statistical theory and modern foundation models. In particular, I focus on:
 
-- Developing probabilistic inference methods for foundation models, with an emphasis on improving reasoning capabilities in LLMs.
-- Advancing scientific understanding of LLMs by investigating the fundamental statistical properties that govern *how models learn and reason.*
+- Developing probabilistic inference methods for foundation models, with an emphasis on ***improving reasoning capabilities in LLMs***.
+- Advancing scientific understanding of LLMs by investigating the fundamental statistical properties that govern ***how models learn and reason.***
 
 
 
