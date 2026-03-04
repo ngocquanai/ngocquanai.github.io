@@ -36,8 +36,8 @@
       "institution": "National University of Singapore",
       "area": "Ph.D in Computer Science",
       "studyType": "",
-      "startDate": "2026",
-      "endDate": "",
+      "startDate": "",
+      "endDate": "2026 - ",
       "gpa": null,
       "courses": []
     },
@@ -46,7 +46,7 @@
       "area": "B.S. in Data Science",
       "studyType": "",
       "startDate": "2021",
-      "endDate": "2026",
+      "endDate": "2021 - 2026",
       "gpa": 3.62,
       "courses": []
     }
