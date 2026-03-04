@@ -8,7 +8,7 @@ tags:
   - PhD
 ---
 
-Welcome to My Blog!
+Welcome to my blog. Have a nice day!
 
 I will share my thoughts on my blog. I am preparing for my PhD journey at the National University of Singapore (NUS). I think it will be a real challenge for me, but of course an interesting journey as well.
 
