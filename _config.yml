@@ -23,10 +23,10 @@ repository               : "ngocquanai/ngocquanai.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "(Ngoc) Quan Pham"
   pronouns         :  
-  bio              : "I am <strong>Quan Pham</strong>, currently an AI Resident at Qualcomm AI Research."
+  bio              : "I am <strong>Quan Pham</strong>, imcoming PhD Student at NUS."
   location         : "Hanoi, Vietnam"
   employer         : "Qualcomm AI Research"
   uri              : # URL

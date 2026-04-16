@@ -16,7 +16,7 @@ Outside of research, I love traveling to collect new experiences (and photos) as
 
 # Updates
 
-- **[Feb 2026]** I was offered admission to pursue a PhD at the [National University of Singapore (NUS)](https://nus.edu.sg/) with a research scholarship.
+- **[Feb 2026]** I was offered PhD admission and research scholarship from National University of Singapore.
 
 - **[Dec 2025]** I am actively **looking for a PhD position**. Good luck to me!
 
