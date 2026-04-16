@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 
-**About me**: Hello world! I am Quan Pham. I am an undergrad at [HUST](https://hust.edu.vn/en/), Vietnam, and also an AI Resident at [Qualcomm AI Research](https://www.qualcomm.com/). I am an incoming PhD student at National University of Singapore (NUS). I was mentored by [Prof. Trung Le](https://research.monash.edu/en/persons/trung-le/) and [Prof. Dinh Phung](https://dinhphung.ml/) (previously at VinAI Research), and I currently work closely with [Dr. Tung Pham](https://scholar.google.com/citations?user=KcUuEKsAAAAJ&hl=en) and [Dr. Hung Bui](https://sites.google.com/site/buihhung/) at Qualcomm AI Research.
+**About me**: Hello world! I’m Quan Pham, an incoming PhD student at the National University of Singapore. I received my bachelor’s degree from [HUST](https://hust.edu.vn/en/). I was mentored by [Prof. Trung Le](https://research.monash.edu/en/persons/trung-le/) and [Prof. Dinh Phung](https://dinhphung.ml/) (previously at VinAI Research), and I currently work closely with [Dr. Tung Pham](https://scholar.google.com/citations?user=KcUuEKsAAAAJ&hl=en) and [Dr. Hung Bui](https://sites.google.com/site/buihhung/) at Qualcomm AI Research.
 
-I like to play with large language models, then ask ***why*** they work. I am especially interested in the theory behind LLM abilities: what principles explain the behaviors we observe, and how we can make them more ***reliable***.
+I love experimenting with language models to better understand the nature of their emerging abilities. I’m especially curious about the theory behind LLM abilities: what explains the behaviors we see, and how we can make them more reliable.
 
-Outside of research, I love traveling to collect new experiences (and photos) as my little way to capture memories. You can explore them in [***my travel gallery***](https://www.ngocquan.com/travel)
+When I’m not doing research, you’ll probably find me building LEGO, watching films or off traveling somewhere new. I like collecting moments and photos along the way, and you can browse a few of them in [***my travel gallery.***](https://www.ngocquan.com/travel)
 
 # Updates
 
@@ -24,7 +24,7 @@ Outside of research, I love traveling to collect new experiences (and photos) as
 
 - **[May 2025]** I got 2 papers accepted at ICML 2025. 
 
-- **[Apr 2025]** I officialy joined Qualcomm AI Research as an AI Resident.
+- **[Apr 2025]** I joined Qualcomm AI Research as an AI Resident.
 
 - **[Dec 2024]** I achieved an IELTS Academic band score of 7.0!
 
