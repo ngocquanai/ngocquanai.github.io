@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 
-**About me**: Hello world! I’m Quan Pham, an incoming PhD student at the National University of Singapore (NUS), where I am fortunate to be advised by [Prof. Wee Sun Lee](https://www.comp.nus.edu.sg/~leews/). Before that, I earned a bachelor’s in Data Science from Hanoi University of Science and Technology, then spent time as an AI Resident at two industry labs — [VinAI Research](https://www.vinai.io/) (with [Prof. Trung Le](https://research.monash.edu/en/persons/trung-le/) and [Prof. Dinh Phung](https://www.dinhphung.com/)) and [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence) (with [Dr. Tung Pham](https://scholar.google.com/citations?user=KcUuEKsAAAAJ&hl=en) and [Dr. Hung Bui](https://sites.google.com/site/buihhung/)). 
+**About me**: Hello world! I’m Quan Pham, a PhD student at the National University of Singapore (NUS), where I am fortunate to be advised by [Prof. Wee Sun Lee](https://www.comp.nus.edu.sg/~leews/). Before that, I earned a bachelor’s in Data Science from Hanoi University of Science and Technology, then spent time as an AI Resident at [VinAI Research](https://www.vinai.io/) (with [Prof. Trung Le](https://research.monash.edu/en/persons/trung-le/) and [Prof. Dinh Phung](https://www.dinhphung.com/)) and [Qualcomm AI Research](https://www.qualcomm.com/research/artificial-intelligence) (with [Dr. Tung Pham](https://scholar.google.com/citations?user=KcUuEKsAAAAJ&hl=en) and [Dr. Hung Bui](https://sites.google.com/site/buihhung/)). 
 
-Most of my days revolve around research, and I really enjoy that rhythm. The repetition does not feel boring to me; instead, it has taught me resilience, patience, and focus. Outside of research, I enjoy playing games, watching films, and, especially, traveling to new places. I like collecting moments and photos along the way, and you can browse a few of them in [*my travel gallery.*](https://www.ngocquan.com/travel).
+Most of my days revolve around research, and I really enjoy that rhythm. The repetition does not feel boring to me; instead, it has taught me resilience, patience, and focus. Outside of research, I enjoy playing games, watching films, and, especially, traveling to new places.
 
 
 # Writing
@@ -21,7 +21,7 @@ Most of my days revolve around research, and I really enjoy that rhythm. The rep
 
 # Updates
 
-- **[Jun 2026]** [One paper](https://openreview.net/forum?id=XiIVpZvJ2L) was accepted to the ICML 2026 AI4Math workshop. Hoping it finds its way to NeurIPS next!
+- **[Jun 2026]** [One paper](https://openreview.net/forum?id=XiIVpZvJ2L) was accepted to the ICML 2026 AI4Math workshop.
 
 - **[Feb 2026]** I received PhD admission and a research scholarship from the National University of Singapore.
 
@@ -43,9 +43,9 @@ Most of my days revolve around research, and I really enjoy that rhythm. The rep
 
 # Research Interests
 
-My research primarily focuses on mechanistic interpretability for large language models (LLMs). I am interested in understanding how these models learn, represent knowledge, generalize, and reason by uncovering the internal mechanisms that give rise to their behaviors. 
+I am interested in self-evolving agents and their applications to scientific research. I aim to develop agentic systems that effectively support researchers and the broader academic community. 
 
-Beyond interpretability, I am interested in agentic AI and its role in supporting scientific work. In particular, I hope to study and build agentic systems that can augment research workflows, enhance productivity, and better support researchers and the academic community.
+My current focus is on scalable, hierarchical skill libraries that allow agents to retrieve and reuse skills across tasks. I study how agents can build, organize, and continually improve these libraries through experience and feedback.
 
 <!-- spacer before map tracker -->
 <div style="height:48px;" aria-hidden="true"></div>

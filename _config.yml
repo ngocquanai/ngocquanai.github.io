@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Quan Pham"
 title_separator          : "-"
-name                     : &name "Quan Pham"
-description              : &description "QuanPham's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : "Quan Pham"
+description              : "QuanPham homepage"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://ngocquan.com # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,11 +24,11 @@ repository               : "quanphamnus/quanphamnus.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "(Ngoc) Quan Pham"
+  name             : "Quan Pham"
   pronouns         :  
-  bio              : "PhD Student at NUS · Former AI Resident at Qualcomm"
-  location         : "Hanoi, Vietnam"
-  employer         : "Qualcomm AI Research"
+  bio              : "PhD Student at National University of Singapore"
+  location         : "Singapore"
+  employer         : "NUS"
   uri              : # URL
   email            : "ngocquanofficial@gmail.com" 
 
