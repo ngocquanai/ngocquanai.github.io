@@ -1,6 +1,6 @@
 ---
 title: 'Does a Low OpenReview Submission ID Help?'
-date: 2026-09-24
+date: 2026-08-27
 permalink: /posts/iclr-submission-id/
 description: "The sooner you create your submission, the higher your acceptance rate is?"
 tags:
