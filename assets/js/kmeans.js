@@ -23,6 +23,7 @@
     var iter = 0, inertia = 0, seed = 0, dataAge = 0;
     var t0 = 0, PHASE_A = 360, PHASE_B = 640;   // recolour, then glide
     var phase = "assign", holdAt = 0, done = false;
+    var TOL_PX = 3, MAX_ITER = 10;   // sklearn's tol / max_iter, in screen pixels
 
     function theme() {
       var el = canvas.closest("[data-theme]");
@@ -131,7 +132,7 @@
         } else {
           cen[j] = { x: sx[j] / n[j], y: sy[j] / n[j] };
         }
-        moved += Math.abs(cen[j].x - prev[j].x) + Math.abs(cen[j].y - prev[j].y);
+        moved = Math.max(moved, Math.hypot(cen[j].x - prev[j].x, cen[j].y - prev[j].y));
         trail[j].push({ x: cen[j].x, y: cen[j].y });
         if (trail[j].length > 14) trail[j].shift();
       }
@@ -292,19 +293,23 @@
     function frame(now) {
       var el = now - t0;
       if (done) {
-        if (now - holdAt > 1500) {
+        if (now - holdAt > 2000) {         // pause on the converged result
           if (dataAge >= 3) makeData();     // new dataset every 3 seeds
           seedCentroids();
         }
       } else if (phase === "assign" && el >= PHASE_A) {
-        var moved = update();
-        phase = "move"; t0 = now;
-        if (moved < 1e-4) { done = true; holdAt = now; }
+        // tol, in PIXELS: k-means' last iterations shift the centroids by
+        // less than the eye can resolve. Animating them wastes a full beat on
+        // a frame that looks frozen, so apply the move but skip its glide.
+        var shiftPx = update() * (H - 2 * pad);
+        phase = "move";
+        if (shiftPx < TOL_PX) { done = true; holdAt = now; t0 = now - PHASE_B; }
+        else t0 = now;
       } else if (phase === "move" && el >= PHASE_B) {
         iter++;
         var changed = assign();
         phase = "assign"; t0 = now;
-        if (changed === 0) { done = true; holdAt = now; }
+        if (changed === 0 || iter >= MAX_ITER) { done = true; holdAt = now; }
       }
       draw(now);
       requestAnimationFrame(frame);
